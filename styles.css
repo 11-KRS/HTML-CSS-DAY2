@@ -1,0 +1,22 @@
+body {
+    background-color: #326068; 
+}
+
+.container {
+    background-color: #fff; 
+    color: #333; 
+    padding: 20px; 
+}
+
+h1, h2 {
+    font-family: "Your Unique Font", sans-serif; 
+}
+
+section {
+    border: 2px solid #194637; 
+    border-radius: 10px; 
+}
+
+section ul li:hover {
+    color: #ff0000; 
+}
